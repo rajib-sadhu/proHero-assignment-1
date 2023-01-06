@@ -95,3 +95,11 @@ header{
     display: flex;
     justify-content: space-around;
 }
+.plan_part>h4{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.plan_part>p{
+    font-size: 18px;
+}
