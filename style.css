@@ -42,6 +42,10 @@ header{
     cursor: pointer;
 }
 
+.head_btn:hover{
+    background-color: #484848;
+}
+
 /* My failures of previous year style */
 
 .failures{
@@ -217,6 +221,7 @@ footer{
 .footer_contain img{
     margin-top: 15px;
     margin-right: 15px;
+    cursor: pointer;
 }
 /* footer right */
 .footer_contain>h6{
