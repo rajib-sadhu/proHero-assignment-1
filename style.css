@@ -107,7 +107,11 @@ header{
 /* contact style */
 
 .bonus{
-    margin: 120px 300px;
+    margin: 120px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: #838383; */
 }
 
 .contact{
@@ -123,6 +127,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    width: 800px;
+    /* background-color: #484848; */
 }
 .contact_div{
     width: 400px;
@@ -151,7 +157,7 @@ header{
 
 /* About Style */
 .about{
-    margin: 100px 200px;
+    margin: 100px 280px;
     text-align: center;
 }
 .about_title{
