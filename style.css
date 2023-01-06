@@ -106,8 +106,12 @@ header{
 
 /* contact style */
 
-.contact{
+.bonus{
     margin: 120px 300px;
+    text-align: center;
+}
+
+.contact{
     background-image:  url('images/gradient2.png'), url('images/watch.png');
     height: 250px;
     /* background-position: center; */
@@ -122,7 +126,7 @@ header{
 }
 .contact_div{
     width: 400px;
-    padding: 50px;
+    /* padding: 50px; */
 }
 .contact_title{ 
     color: #ffffff;
