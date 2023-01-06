@@ -108,8 +108,50 @@ header{
 
 .contact{
     margin: 120px 300px;
-    background-image: url('images/watch.png');
+    background-image:  url('images/gradient2.png'), url('images/watch.png');
+    height: 250px;
+    background-position: center;
+    background-size: contain;
     background-repeat: no-repeat;
-    width: 1000px;
-    height: 300px;
+    border-radius: 5px;
+    padding: 0 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.contact_div{
+    width: 400px;
+}
+.contact_title{ 
+    color: #ffffff;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.btn_call{
+    padding: 12px 30px;
+    color: #F15B22;
+    background-color: #ffffff;
+    border: 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 2.5px;
+}
+
+/* footer */
+footer{
+    background-color: black;
+    color: #ffffff;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 200px;
+}
+.footer_contain{
+    padding: 0 120px;
+}
+.footer_contain>h4{
+    font-size: 40px;
+    margin-bottom: 20px;
 }
