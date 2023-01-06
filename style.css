@@ -108,10 +108,10 @@ header{
 
 .bonus{
     margin: 120px 300px;
-    text-align: center;
 }
 
 .contact{
+    margin: 10 auto;
     background-image:  url('images/gradient2.png'), url('images/watch.png');
     height: 250px;
     /* background-position: center; */
