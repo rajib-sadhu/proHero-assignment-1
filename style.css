@@ -101,5 +101,15 @@ header{
     font-size: 25px;
 }
 .plan_part>p{
-    font-size: 18px;
+    font-size: 20px;
+}
+
+/* contact style */
+
+.contact{
+    margin: 120px 300px;
+    background-image: url('images/watch.png');
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 300px;
 }
