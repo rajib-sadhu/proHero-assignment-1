@@ -110,7 +110,7 @@ header{
     margin: 120px 300px;
     background-image:  url('images/gradient2.png'), url('images/watch.png');
     height: 250px;
-    background-position: center;
+    /* background-position: center; */
     background-size: contain;
     background-repeat: no-repeat;
     border-radius: 5px;
